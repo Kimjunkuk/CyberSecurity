@@ -13,3 +13,58 @@ FB(Fall Back)
 
 NR5 mmWave(milimeter wave)
 **Must required cool down funcion (check Tempertur code #*0011#_)
+
+
+RSRP and RSRQ are key measures of signal level and quality for modern LTE networks. In cellular networks, when a mobile moves from cell to cell and performs cell selection/reselection and handover, it has to measure the signal strength/quality of the neighbor cells.
+In LTE network, a UE measures two parameters on reference signal: RSRP (Reference Signal Received Power) and RSRQ (Reference Signal Received Quality).
+
+In LTE network, a UE measures two parameters on reference signal:
+
+RSSI – Received Signal Strength Indicator:The carrier RSSI (Receive Strength Signal Indicator) measures the average total received power observed only in OFDM symbols containing reference symbols for antenna port 0 (i.e., OFDM symbol 0 & 4 in a slot) in the measurement bandwidth over N resource blocks.
+
+The total received power of the carrier RSSI includes the power from co-channel serving & non-serving cells, adjacent channel interference, thermal noise, etc. Total measured over 12-subcarriers including RS from Serving Cell, Traffic in the Serving Cell
+
+RSRP – Reference Signal Received Power: RSRP is a RSSI type of measurement, as follows there are some definition of it and some details as well.
+It is the power of the LTE Reference Signals spread over the full bandwidth and narrowband.
+A minimum of -20 dB SINR (of the S-Synch channel) is needed to detect RSRP/RSRQ
+
+RSRQ – Reference Signal Received Quality: Quality considering also RSSI and the number of used Resource Blocks (N) RSRQ = (N * RSRP) / RSSI measured over the same bandwidth. RSRQ is a C/I type of measurement and it indicates the quality of the received reference signal. The RSRQ measurement provides additional information when RSRP is not sufficient to make a reliable handover or cell reselection decision. 
+
+In the procedure of handover, the LTE specification provides the flexibility of using RSRP, RSRQ, or both. 
+
+It must to be measured over the same bandwidth:
+
+Narrowband N = 62 Sub Carriers (6 Resource Blocks)
+Wideband N = full bandwidth (up to 100 Resource Blocks / 20 MHz)
+
+RSRP
+In other words RSRP (Reference Signal Receive Power) is the average power of Resource Elements (RE) that carry cell specific Reference Signals (RS) over the entire bandwidth, so RSRP is only measured in the symbols carrying RS.
+
+RSRP is the average received power of a single RS resource element.
+UE measures the power of multiple resource elements used to transfer the reference signal but then takes an average of them rather than summing them.
+Reporting range -44…-140 dBm
+RSRP does a better job of measuring signal power from a specific sector while potentially excluding noise and interference from other sectors.
+
+RSRP levels for usable signal typically range from about -75 dBm close in to an LTE cell site to -120 dBm at the edge of LTE coverage.
+
+RSRP mapping 3GPP TS 36.133 V8.9.0 (2010-03)
+LTE RSRP TableThe reporting range of RSRP is defined from -140 dBm to – 44 dBm with 1 dB resolution.
+
+The mapping of measured quantity is defined in the table.
+
+RSRQ
+In formula:
+
+RSRQ = N x RSRP / RSSI
+LTE RSRQ reporting rangeN is the number of Physical Resource Blocks (PRBs) over which the RSSI is measured, typically equal to system bandwidth
+RSSI is pure wide band power measurement, including intracell power, interference and noise
+The reporting range of RSRQ is defined from -3…-19.5dB
+Reference Signals recap: OFDMA Channel Estimation
+In simple terms the Reference Signal (RS) is mapped to Resource Elements (RE). This mapping follows a specific pattern (see to below).
+
+So at any point in time the UE will measure all the REs that carry the RS and average the measurements to obtain an RSRP reading.
+
+Channel estimation in LTE is based on reference signals (like CPICH functionality in WCDMA)
+Reference signals position in time domain is fixed (0 and 4 for Type 1 Frame) whereas in frequency domain it depends on the Cell ID
+In case more than one antenna is used (e.g. MIMO) the Resource elements allocated to reference signals on one antenna are DTX on the other antennas
+Reference signals are modulated to identify the cell to which they belong.
