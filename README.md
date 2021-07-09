@@ -8,7 +8,7 @@
 
 ## 4) WCDMA, CDMA
 
-## 5) GSM
+## 5) GSM<br><br>
 
 <table style="width:100%">
   <tr>
