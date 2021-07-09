@@ -10,11 +10,6 @@
 
 ## 5) GSM
 
-
-
-
-
-
 <table style="width:100%">
   <tr>
     <th colspan="2">Samsung Secret Code (One UI) Secret Code Function</th>
@@ -29,38 +24,90 @@
   </tr>
   <tr>
     <td>*#0808#</td>
-    <td>Change USB settings</td>
+    <td>[Not work on personal device]Change USB settings</td>
   </tr>
   <tr>
     <td>*#0228#</td>
     <td>Check Battery status ADC, RSSI reading, etc.</td>
   </tr>
+  <tr>
+    <td>*#0011#</td>
+    <td>View network status information</td>
+  </tr>
+  <tr>
+    <td>*#1234#</td>
+    <td>View Software Version such as PDA, CSC, MODEM, etc. Helps you check the BL, AP, CP, and CSC of your Samsung device</td>
+  </tr>
+  <tr>
+    <td>*#9090#</td>
+    <td>Service Mode && Check diagnostic configuration</td>
+  </tr>
+  <tr>
+    <td>*#9900#</td>
+    <td>Check Dump mode</td>
+  </tr>
+  <tr>
+    <td>*#12580*369#</td>
+    <td>Check Software and hardware information. This code also lets you check Samsung mobile manufacturing date</td>
+  </tr>
+  <tr>
+    <td>*#0283#</td>
+    <td>Check Audio loopback control</td>
+  </tr>
+  <tr>
+    <td>*#34971539#</td>
+    <td>Update Camera firmware</td>
+  </tr>
+  <tr>
+    <td>#7465625*638*#</td>
+    <td>Check Network lock keycode</td>
+  </tr>
+  <tr>
+    <td>*#2663#</td>
+    <td>Check TSP and TSK firmware update</td>
+  </tr>
+  <tr>
+    <td>*#2663#</td>
+    <td>Check TSP and TSK firmware update</td>
+  </tr>
+  <tr>
+    <td>*#34971539#</td>
+    <td>View Camera firmware menu</td>
+  </tr>
+  <tr>
+    <td>*43# [dial]</td>
+    <td>Enable call waiting</td>
+  </tr>
+  <tr>
+    <td>#43#[dial]</td>
+    <td>Turn off call waiting</td>
+  </tr>
+  <tr>
+    <td>*#43#[dial]</td>
+    <td>Show status of call waiting</td>
+  </tr>
+  <tr>
+    <td>*135#[dial]</td>
+    <td>Request own phone number (doesn’t work sometimes)</td>
+  </tr>
+  <tr>
+    <td>**04*[old Pin]*[new Pin]*[new Pin]#</td>
+    <td>Change device PIN. Replace the old and new PINs of your Samsung device.</td>
+  </tr>
+  <tr>
+    <td>*#004*[number]#</td>
+    <td>Divert call to a given number. Replace “[number]” with a phone number</td>
+  </tr>
+  <tr>
+    <td>*#004#</td>
+    <td>Request the status for call diversion</td>
+  </tr>
+  <tr>
+    <td>#004#</td>
+    <td>Deactivate call diversion</td>
+  </tr>
+  <tr>
+    <td>##004#</td>
+    <td>Erase call diversion</td>
+  </tr>
 </table>
-	
-
-	
-	
-*#0011#	View GSM status information
-*#2222#	Check Hardware Version
-*#1234#	View Software Version such as PDA, CSC, MODEM, etc. Helps you check the BL, AP, CP, and CSC of your Samsung device
-*#9090#	Check diagnostic configuration
-*#9900#	Check Dump mode
-*#12580*369#	Check Software and hardware information. This code also lets you check Samsung mobile manufacturing date
- *#0283#	Check Audio loopback control
-*#34971539#	Update Camera firmware
-#7465625*638*#	Check Network lock keycode
-*#2663#	Check TSP and TSK firmware update
-*#272IMEI#*	Check Product code
-*#272*IMEI#	Check buyer code, CSC (Country/Carrier Specific Product) Code
-*#0283#	Check Audio loopback control
-*#1111#	Check software version
-*#34971539#	View Camera firmware menu
-*43# [dial]	Enable call waiting
-#43#[dial]	Turn off call waiting
-*#43#[dial]	Show status of call waiting
-*135#[dial]	Request own phone number (doesn’t work sometimes)
-**04*[old Pin]*[new Pin]*[new Pin]#	Change device PIN. Replace the old and new PINs of your Samsung device.
-*#004*[number]#	Divert call to a given number. Replace “[number]” with a phone number
-*#004#	Request the status for call diversion
-#004#	Deactivate call diversion
-##004#	Erase call diversion
