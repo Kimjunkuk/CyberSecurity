@@ -1,23 +1,33 @@
 # mmWave Test Debug screen<br>
-Debug info: 0 0 9 168 66786<br>
-HPLMN(310-260) sim_state(1)<br>
-Serving PLMN(310-260) - LTE<br>
-NW sel mode: Auto<br>
-EMM(registered-0) TAC(31894)<br>
-GUTI: 310-260-280-d6-8f9a41ca<br>
-LTE RRC: Conn Band66 BW: 20<br>
-Earfcn: 66786, PCI: 224<br>
-RSRP:-80 RSRQ:-12 SNR:-0.6<br>
-PCC MIMO Configured: 4<br>
-Tx Pwr: -3 dBm<br>
-UpperLayer_Ind_R15: Support<br>
-Dcnr_Restriction: False<br>
-NR5G_RSRP:-84<br>
-NR5G_SINR: 22.0<br>
-NR5G RSRQ: -11<br>
-NR_SSB_Index: 21<br>
-NR_EARFCN: 2256859<br>
-NR_PCI: 224<br>
+## Debug info: 0 0 9 168 66786<br>
+## HPLMN(310-260) sim_state(1)<br>
+## Serving PLMN(310-260) - LTE<br>
+## NW sel mode: Auto<br>
+## EMM(registered-0) TAC(31894)<br>
+## GUTI: 310-260-280-d6-8f9a41ca<br>
+## LTE RRC: Conn Band66 BW: 20<br>
+## Earfcn: 66786, PCI: 224<br>
+PCI(Physical Cell ID)<br>
+5G NR(New Radio): 1008(PCI)<br>
+LTE(Long term evolution): 504(PCI)<br>
+refer from: https://www.techplayon.com/5g-nr-physical-cell-id-pci-planning/<br>
+What is this?<br>
+Each 5G NR cell corresponds to a Physical cell ID(PCI) and it is used to distinguish cell on the Radio side.<br>
+why using this?<br>
+The purpose of PCI optimiztion is to ensure to a great extent that neighboring cells should have different primary sequences allocated.<br>
+what knowlege do i need about this?<br>
+## RSRP:-80 RSRQ:-12 SNR:-0.6<br>
+## PCC MIMO Configured: 4<br>
+## Tx Pwr: -3 dBm<br>
+## UpperLayer_Ind_R15: Support<br>
+## Dcnr_Restriction: False<br>
+## NR5G_RSRP:-84<br>
+## NR5G_SINR: 22.0<br>
+## NR5G RSRQ: -11<br>
+## NR_SSB_Index: 21<br>
+## NR_EARFCN: 2256859<br>
+## NR_PCI: 224<br>
+
 NR_RLF Count<br>
 SCGF Type:<br>
 NR_Band: n260<br>
@@ -43,21 +53,7 @@ AsDiv: Not supported<br>
 TM: ALL TM Lvl is 0 <br>
 Wakeup_info: 0 <br>
 
-PCI(Physical Cell ID)
-5G NR(New Radio): 1008(PCI)
-LTE(Long term evolution): 504(PCI)
 
-refer from: https://www.techplayon.com/5g-nr-physical-cell-id-pci-planning/
-
-What is this?
-Each 5G NR cell corresponds to a Physical cell ID(PCI) and it is used to distinguish cell on the Radio side.
-
-
-why using this?
-The purpose of PCI optimiztion is to ensure to a great extent that neighboring cells should have different primary sequences allocated.
-
-
-what knowlege do i need about this?
 
 
 
