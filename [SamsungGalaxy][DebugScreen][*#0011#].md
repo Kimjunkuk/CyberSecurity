@@ -1,47 +1,47 @@
-mmWave Test Debug screen
-Debug info: 0 0 9 168 66786
-HPLMN(310-260) sim_state(1)
-Serving PLMN(310-260) - LTE
-NW sel mode: Auto
-EMM(registered-0) TAC(31894)
-GUTI: 310-260-280-d6-8f9a41ca
-LTE RRC: Conn Band66 BW: 20
-Earfcn: 66786, PCI: 224
-RSRP:-80 RSRQ:-12 SNR:-0.6
-PCC MIMO Configured: 4
-Tx Pwr: -3 dBm
-UpperLayer_Ind_R15: Support
-Dcnr_Restriction: False
-NR5G_RSRP:-84
-NR5G_SINR: 22.0
-NR5G RSRQ: -11
-NR_SSB_Index: 21
-NR_EARFCN: 2256859
-NR_PCI: 224
-NR_RLF Count
-SCGF Type:
-NR_Band: n260
-NR_CDRX: Active
-NR_Num_CC: 1
-NR_DL Scheduling: 0.07
-NR_BLER: 0.00
-NR_BW: 100
-NR_SB Status: LTE+NR
-NR_ANT MAX RSPR: -81
-NR_ANT MIN RSRP: 84
-NR_Tx Pwr: 10dBm
-ENDC Total Tx Pwr: 10dBm
-NR_SCS: 240kHz
-paging_cycle: 1280ms
-CA-Not Config 0 0
-PA State: 0(ET, HDET: 0
-Network: unblock
-Final IMEI certi: Pass
-Unknown 0 
-AJB Init_bug: 0 ms
-AsDiv: Not supported
-TM: ALL TM Lvl is 0
-Wakeup_info: 0 
+# mmWave Test Debug screen<br>
+Debug info: 0 0 9 168 66786<br>
+HPLMN(310-260) sim_state(1)<br>
+Serving PLMN(310-260) - LTE<br>
+NW sel mode: Auto<br>
+EMM(registered-0) TAC(31894)<br>
+GUTI: 310-260-280-d6-8f9a41ca<br>
+LTE RRC: Conn Band66 BW: 20<br>
+Earfcn: 66786, PCI: 224<br>
+RSRP:-80 RSRQ:-12 SNR:-0.6<br>
+PCC MIMO Configured: 4<br>
+Tx Pwr: -3 dBm<br>
+UpperLayer_Ind_R15: Support<br>
+Dcnr_Restriction: False<br>
+NR5G_RSRP:-84<br>
+NR5G_SINR: 22.0<br>
+NR5G RSRQ: -11<br>
+NR_SSB_Index: 21<br>
+NR_EARFCN: 2256859<br>
+NR_PCI: 224<br>
+NR_RLF Count<br>
+SCGF Type:<br>
+NR_Band: n260<br>
+NR_CDRX: Active<br>
+NR_Num_CC: 1<br>
+NR_DL Scheduling: 0.07<br>
+NR_BLER: 0.00<br>
+NR_BW: 100<br>
+NR_SB Status: LTE+NR<br>
+NR_ANT MAX RSPR: -81<br>
+NR_ANT MIN RSRP: 84<br>
+NR_Tx Pwr: 10dBm<br>
+ENDC Total Tx Pwr: 10dBm<br>
+NR_SCS: 240kHz<br>
+paging_cycle: 1280ms<br>
+CA-Not Config 0 0<br>
+PA State: 0(ET, HDET: 0<br>
+Network: unblock<br>
+Final IMEI certi: Pass<br>
+Unknown 0 <br>
+AJB Init_bug: 0 ms<br>
+AsDiv: Not supported<br>
+TM: ALL TM Lvl is 0 <br>
+Wakeup_info: 0 <br>
 
 PCI(Physical Cell ID)
 5G NR(New Radio): 1008(PCI)
