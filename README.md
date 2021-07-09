@@ -1,1 +1,1 @@
-# Samsung software quality assurance task information
+# Software quality assurance task information
