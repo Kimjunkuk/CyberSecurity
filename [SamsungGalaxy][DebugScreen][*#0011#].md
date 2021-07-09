@@ -8,15 +8,16 @@
 ## LTE RRC: Conn Band66 BW: 20<br>
 ## Earfcn: 66786, PCI: 224<br>
 PCI(Physical Cell ID)<br>
-5G NR(New Radio): 1008(PCI)<br>
-LTE(Long term evolution): 504(PCI)<br>
+5G NR(New Radio) has 1008(PCI) each numbers<br>
+LTE(Long term evolution) has 504(PCI) each numbers<br>
 refer from: https://www.techplayon.com/5g-nr-physical-cell-id-pci-planning/<br>
 What is this?<br>
 Each 5G NR cell corresponds to a Physical cell ID(PCI) and it is used to distinguish cell on the Radio side.<br>
 why using this?<br>
 The purpose of PCI optimiztion is to ensure to a great extent that neighboring cells should have different primary sequences allocated.<br>
-what knowlege do i need about this?<br>
+what knowlege do i need about this?<br><br>
 ## RSRP:-80 RSRQ:-12 SNR:-0.6<br>
+RSRP and RSRQ are key measures of signal level and quality for modern LTE networks.<br>
 ## PCC MIMO Configured: 4<br>
 ## Tx Pwr: -3 dBm<br>
 ## UpperLayer_Ind_R15: Support<br>
@@ -27,47 +28,34 @@ what knowlege do i need about this?<br>
 ## NR_SSB_Index: 21<br>
 ## NR_EARFCN: 2256859<br>
 ## NR_PCI: 224<br>
-
-NR_RLF Count<br>
-SCGF Type:<br>
-NR_Band: n260<br>
-NR_CDRX: Active<br>
-NR_Num_CC: 1<br>
-NR_DL Scheduling: 0.07<br>
-NR_BLER: 0.00<br>
-NR_BW: 100<br>
-NR_SB Status: LTE+NR<br>
-NR_ANT MAX RSPR: -81<br>
-NR_ANT MIN RSRP: 84<br>
-NR_Tx Pwr: 10dBm<br>
-ENDC Total Tx Pwr: 10dBm<br>
-NR_SCS: 240kHz<br>
-paging_cycle: 1280ms<br>
-CA-Not Config 0 0<br>
-PA State: 0(ET, HDET: 0<br>
-Network: unblock<br>
-Final IMEI certi: Pass<br>
-Unknown 0 <br>
-AJB Init_bug: 0 ms<br>
-AsDiv: Not supported<br>
-TM: ALL TM Lvl is 0 <br>
-Wakeup_info: 0 <br>
-
+## NR_RLF Count<br>
+## SCGF Type:<br>
+## NR_Band: n260<br>
+## NR_CDRX: Active<br>
+## NR_Num_CC: 1<br>
+## NR_DL Scheduling: 0.07<br>
+## NR_BLER: 0.00<br>
+## NR_BW: 100<br>
+## NR_SB Status: LTE+NR<br>
+## NR_ANT MAX RSPR: -81<br>
+## NR_ANT MIN RSRP: 84<br>
+## NR_Tx Pwr: 10dBm<br>
+## ENDC Total Tx Pwr: 10dBm<br>
+## NR_SCS: 240kHz<br>
+## paging_cycle: 1280ms<br>
+## CA-Not Config 0 0<br>
+## PA State: 0(ET, HDET: 0<br>
+## Network: unblock<br>
+## Final IMEI certi: Pass<br>
+## Unknown 0 <br>
+## AJB Init_bug: 0 ms<br>
+## AsDiv: Not supported<br>
+## TM: ALL TM Lvl is 0 <br>
+## Wakeup_info: 0 <br>
 
 
 
-
-EARFCN
-
-Cool down funcion
-
-FB(Fall Back)
-
-NR5 mmWave(milimeter wave)
-**Must required cool down funcion (check Tempertur code #*0011#_)
-
-
-RSRP and RSRQ are key measures of signal level and quality for modern LTE networks. In cellular networks, when a mobile moves from cell to cell and performs cell selection/reselection and handover, it has to measure the signal strength/quality of the neighbor cells.
+ In cellular networks, when a mobile moves from cell to cell and performs cell selection/reselection and handover, it has to measure the signal strength/quality of the neighbor cells.
 In LTE network, a UE measures two parameters on reference signal: RSRP (Reference Signal Received Power) and RSRQ (Reference Signal Received Quality).
 
 In LTE network, a UE measures two parameters on reference signal:
