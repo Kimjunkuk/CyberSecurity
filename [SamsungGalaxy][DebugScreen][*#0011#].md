@@ -1,4 +1,4 @@
-# mmWave Test Debug screen<br>
+# mmWave Test Debug screen = B66 + n260<br>
 ## Debug info: 0 0 9 168 66786<br>
 ## HPLMN(310-260) sim_state(1)<br>
 ## Serving PLMN(310-260) - LTE<br>
@@ -18,6 +18,7 @@ The purpose of PCI optimiztion is to ensure to a great extent that neighboring c
 what knowlege do i need about this?<br><br>
 ## RSRP:-80 RSRQ:-12 SNR:-0.6<br>
 RSRP and RSRQ are key measures of signal level and quality for modern LTE networks.<br>
+In cellular networks, when a mobile moves from cell to cell and performs cell selection/reselection and handover, it has to measure the signal strength/quality of the neighbor cells.<br>
 ## PCC MIMO Configured: 4<br>
 ## Tx Pwr: -3 dBm<br>
 ## UpperLayer_Ind_R15: Support<br>
@@ -55,7 +56,7 @@ RSRP and RSRQ are key measures of signal level and quality for modern LTE networ
 
 
 
- In cellular networks, when a mobile moves from cell to cell and performs cell selection/reselection and handover, it has to measure the signal strength/quality of the neighbor cells.
+ 
 In LTE network, a UE measures two parameters on reference signal: RSRP (Reference Signal Received Power) and RSRQ (Reference Signal Received Quality).
 
 In LTE network, a UE measures two parameters on reference signal:
