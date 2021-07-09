@@ -1,18 +1,39 @@
-CDRX
-
-RSRP
-SNIR
-RSRQ
-Dbug info
+Sub6 NSA Test Debug screen
+Debug info: 0 0 9 168 66786
 HPLMN(310-260) sim_state(1)
-Serving PLML(310-260) - LTE
-NW sel mode:
-EMM(Registered-0) TAC(31955)
-GUTI: 310-260-280-d6-f1742ca
-LTE RRC: 
-BW
-Earfcn: 850
-PCI: 88
+Serving PLMN(310-260) - LTE
+NW sel mode: Auto
+EMM(registered-0) TAC(31894)
+GUTI: 310-260-280-d6-8f9a41ca
+LTE RRC: Conn Band66 BW: 20
+Earfcn: 66786, PCI: 224
+RSRP:-80 RSRQ:-12 SNR:-0.6
+PCC MIMO Configured: 4
+Tx Pwr: -3 dBm
+UpperLayer_Ind_R15: Support
+Dcnr_Restriction: False
+NR5G_RSRP:-84
+NR5G_SINR: 22.0
+NR5G RSRQ: -11
+NR_SSB_Index: 21
+NR_EARFCN: 2256859
+NR_PCI: 224
+NR_RLF Count
+SCGF Type:
+NR_Band: n260
+NR_CDRX: Active
+NR_Num_CC: 1
+NR_DL Scheduling: 0.07
+NR_BLER: 0.00
+NR_BW: 100
+NR_SB Status: LTE+NR
+NR_ANT MAX RSPR: -81
+NR_ANT MIN RSRP: 84
+NR_Tx Pwr: 10dBm
+ENDC Total Tx Pwr: 10dBm
+NR_SCS: 240kHz
+paging_cycle: 1280ms
+
 
 
 PCI(Physical Cell ID)
