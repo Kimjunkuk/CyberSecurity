@@ -43,10 +43,6 @@ AsDiv: Not supported
 TM: ALL TM Lvl is 0
 Wakeup_info: 0 
 
-Galaxy Fold Device Layout and antenna loaction
-![GalaxyFoldDeviceLayout](https://user-images.githubusercontent.com/54308434/125134657-555ce180-e0cd-11eb-9bb7-e44cf095fac2.PNG)
-
-
 PCI(Physical Cell ID)
 5G NR(New Radio): 1008(PCI)
 LTE(Long term evolution): 504(PCI)
