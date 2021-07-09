@@ -3,7 +3,35 @@ CDRX
 RSRP
 SNIR
 RSRQ
-PCI
+Dbug info
+HPLMN(310-260) sim_state(1)
+Serving PLML(310-260) - LTE
+NW sel mode:
+EMM(Registered-0) TAC(31955)
+GUTI: 310-260-280-d6-f1742ca
+LTE RRC: 
+BW
+Earfcn: 850
+PCI: 88
+
+
+PCI(Physical Cell ID)
+5G NR(New Radio): 1008(PCI)
+LTE(Long term evolution): 504(PCI)
+
+refer from: https://www.techplayon.com/5g-nr-physical-cell-id-pci-planning/
+
+What is this?
+Each 5G NR cell corresponds to a Physical cell ID(PCI) and it is used to distinguish cell on the Radio side.
+
+
+why using this?
+The purpose of PCI optimiztion is to ensure to a great extent that neighboring cells should have different primary sequences allocated.
+
+
+what knowlege do i need about this?
+
+
 
 EARFCN
 
