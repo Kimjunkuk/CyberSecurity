@@ -11,13 +11,13 @@
 ## 5) GSM
 
 
-Samsung Secret Code (One UI)
+
 
 
 
 <table style="width:100%">
   <tr>
-    <th colspan="2">Secret Code Function</th>
+    <th colspan="2">Samsung Secret Code (One UI) Secret Code Function</th>
   </tr>
   <tr>
     <td>*#06#</td>
@@ -27,11 +27,19 @@ Samsung Secret Code (One UI)
     <td>*#0*#</td>
     <td>Test RGB (Red Blue Green), Receiver, Vibration, Touch sensitivity, Speakers, Camera Sensors, S-Pen, Audio loopback,  Software version, etc.</td>
   </tr>
+  <tr>
+    <td>*#0808#</td>
+    <td>Change USB settings</td>
+  </tr>
+  <tr>
+    <td>*#0228#</td>
+    <td>Check Battery status ADC, RSSI reading, etc.</td>
+  </tr>
 </table>
 	
 
-*#0808#	Change USB settings
-*#0228#	Check Battery status ADC, RSSI reading, etc.
+	
+	
 *#0011#	View GSM status information
 *#2222#	Check Hardware Version
 *#1234#	View Software Version such as PDA, CSC, MODEM, etc. Helps you check the BL, AP, CP, and CSC of your Samsung device
