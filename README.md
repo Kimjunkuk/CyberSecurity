@@ -6,4 +6,6 @@
 
 ## 3) UMTS, HSDPA
 
-##
+## 4) WCDMA, CDMA
+
+## 5) GSM
