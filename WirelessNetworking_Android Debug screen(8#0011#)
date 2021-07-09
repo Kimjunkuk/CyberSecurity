@@ -33,6 +33,15 @@ NR_Tx Pwr: 10dBm
 ENDC Total Tx Pwr: 10dBm
 NR_SCS: 240kHz
 paging_cycle: 1280ms
+CA-Not Config 0 0
+PA State: 0(ET, HDET: 0
+Network: unblock
+Final IMEI certi: Pass
+Unknown 0 
+AJB Init_bug: 0 ms
+AsDiv: Not supported
+TM: ALL TM Lvl is 0
+Wakeup_info: 0 
 
 
 
