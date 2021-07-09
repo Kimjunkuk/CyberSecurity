@@ -1,2 +1,1 @@
-# Backgroundknowlege
-Algorism &amp; network
+# Samsung software quality assurance task information
