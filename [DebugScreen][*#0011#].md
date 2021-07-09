@@ -164,3 +164,4 @@ RSRQ = -6dB for 2Tx
 Wide band SINR
 SINR for a specific subcarriers (or for a specific resource elements)
 SINR = S/(I+N), all measured over the same bandwidth
+
