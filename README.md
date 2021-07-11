@@ -110,4 +110,20 @@
     <td>##004#</td>
     <td>Erase call diversion</td>
   </tr>
+  <tr>
+    <td>#686# Dial</td>
+    <td>View Number in TMO</td>
+  </tr>
+  <tr>
+    <td>*#77467#</td>
+    <td>View IMS Setting</td>
+  </tr>
+  <tr>
+    <td>*#2263#</td>
+    <td>Network/bandwidth selection code for ATT&TMO</td>
+  </tr>
+  <tr>
+    <td>##3282#</td>
+    <td>Network/bandwidth selection code for USCC</td>
+  </tr> 
 </table>
