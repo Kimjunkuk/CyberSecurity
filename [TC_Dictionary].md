@@ -15,3 +15,35 @@ So there should be In SVC -> No SVC -> In SVC activity<br>Validation : Check whe
 <tr><td>3G Data Call</td><td>MRAB_04</td><td>Multi Rab  PS  +  CS Voice  ( Wedge or Hedge )
 - WEB(WAP) or PC Browsing</td><td>Validation : Successful MRAB call in HEDGE or WEDGE Mode</td></tr>
 </table>
+
+
+3.
+
+<table>
+<tr><td>4G CSFB</td><td>LTE_CSFB_01</td><td>MO Voice call in LTE IDLE mode with REF UE.<br>
+- Two time trial for 'P1'<br>
+- Ten times trial for 'P1+P2'.</td><td>Established successful MO voice call, UE will try CSFB to GSM or WCDMA according to RedirectionMessage.
+
+Validation : 
+ 1) Check the CSFB notification (ex. RAT Icon)
+ 2) Check the MO voice call notification and call time in the screen.
+ 3) Check the voice mute. 
+ 4) Check reselection time to LTE after releasing CS call.
+     It should be less than 15sec.
+ 5) Try 10 times with REF UE and mark AVG time
+     AVG CSFB time should be same or within 2sec
+ 1) Check successful voice call in 3G or 2G</td></tr>
+<tr><td>4G CSFB</td><td>LTE_CSFB_02</td><td>MT Voice call in LTE IDLE mode with REF UE.<br>
+- Two time trial for 'P1'<br>
+- Ten times trial for 'P1+P2'.</td><td>Established successful MO voice call, UE will try CSFB to GSM or WCDMA according to RedirectionMessage.
+
+Validation : 
+ 1) Check the CSFB notification (ex. RAT Icon)
+ 2) Check the MO voice call notification and call time in the screen.
+ 3) Check the voice mute.
+ 4) Check reselection time to LTE after releasing CS call.
+     It should be less than 15sec.
+ 5) Try 10 times with REF UE and mark AVG time
+     AVG CSFB time should be same or within 2sec
+ 1) Check successful voice call in 3G or 2G</td></tr>
+</table>
