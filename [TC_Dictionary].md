@@ -47,3 +47,17 @@ Validation :
      AVG CSFB time should be same or within 2sec
  1) Check successful voice call in 3G or 2G</td></tr>
 </table>
+
+
+4.
+<table>
+<tr><td>SMS/MMS/SS</td><td>LTE_SMS_1</td><td>Receiving SMS While Idle (E-UTRAN Only)</td><td></td><td>MT SMS while DUT camps on an E-UTRAN cell in the idle mode. 
+
+Validation: 
+verify that the DUT can correctly receive one or two page SMS from a second DUT camped on an E-UTRAN cell.  Verify that the destination device receives the entire message as one inbox item.</td></tr>
+<tr><td>SMS/MMS/SS</td><td>LTE_SMS_3</td><td></td><td>Sending SMS During Idle (E-UTRAN Only)</td><td>MO SMS while DUT camps on an E-UTRAN cell in the idle mode. 
+
+Validation: 
+verify that the DUT can correctly send one or two page SMS from a second DUT camped on an E-UTRAN cell.  Verify that the destination device receives the entire message as one </td></tr>
+</table>
+
