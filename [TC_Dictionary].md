@@ -90,3 +90,30 @@ Validation :
 Validation : Successful sending/receiving  SMS while Voice Call is Active</td>
 </tr>
 </table>
+
+
+6.
+
+<table>
+<tr><td>Category</td><td>TC No</td><td>Test Case/Scenario Description</td><td>Expected Behavior/Validation Criteria</td></tr>
+<tr>
+<td>Basic Mobility</td><td>Call_Driving-01</td><td>Make a call in Automatic mode and try driving test for 30min. 
+And check Call Drop, No Service and any abnormality.</td><td>[Procedure]
+'- Make a call in LTE or WCDMA and try long duration call while driving for 30min.
+- 2 devices can be used together with 2 REF device.
+
+[PASS/FAIL Criteria]
+This TC is PASS if belcow criterias are met. 
+1. there's no abnormality such as calldrop / crash / No Service.</td>
+</tr>
+<tr>
+<td>Basic Mobility</td><td>Tput_Driving-01</td><td>Make a data call such as YouTube in Automatic mode and try driving test for 30min. 
+And check Data stall, No Service and any abnormality.</td><td>[Procedure]
+'- Make a call in LTE or WCDMA and try long duration data call while driving for 30min.
+- 2 devices can be used together with 2 REF device.
+
+[PASS/FAIL Criteria]
+This TC is PASS if belcow criterias are met. 
+1. there's no abnormality such as data stall for 10sec / crash / No Service.</td>
+</tr>
+</table>
