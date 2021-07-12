@@ -61,3 +61,28 @@ Validation:
 verify that the DUT can correctly send one or two page SMS from a second DUT camped on an E-UTRAN cell.  Verify that the destination device receives the entire message as one </td></tr>
 </table>
 
+5.
+
+<table>
+<tr>
+<td>4G VoLTE</td><td>VLT_01</td><td>Make MO VOLTE Call</td><td>Successful VOLTE Call Establishment.
+
+Validation :
+ 1) VOLTE Icon is shown properly
+ 2) make VOLTE MO call whether Call Fail or not.
+ 3) check VOLTE MO call establishment.</td>
+</tr>
+<tr>
+<td>4G VoLTE</td><td>VLT_03</td><td>Receive MT VOLTE Call</td><td>Successful VOLTE Call Reception
+
+Validation :
+ 1) VOLTE Icon is shown properly
+ 2) make VOLTE MO call on another device.
+ 3) Check whether UE is ringing or not.
+ 4) on ringing state, receive Call and check call works properly.</td>
+</tr>
+<tr>
+<td>4G VoLTE</td><td>VLT_09</td><td>MO/MT SMS whille VoLTE is Active</td><td>
+Validation : Successful sending/receiving  SMS while Voice Call is Active</td>
+</tr>
+</table>
