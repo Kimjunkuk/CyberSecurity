@@ -10,6 +10,7 @@ So there should be In SVC -> No SVC -> In SVC activity<br>Validation : Check whe
 
 2.
 <table>
+<tr><td>Category</td><td>TC No</td><td>Test Case/Scenario Description</td><td>Expected Behavior/Validation Criteria</td></tr>
 <tr><td>3G Data Call</td><td>MRAB_03</td><td>Multi Rab  CS Voice  + PS  ( Wedge or Hedge )
 - WEB(WAP) or PC Browsing</td><td>Validation : Successful MRAB call in HEDGE or WEDGE Mode</td></tr>
 <tr><td>3G Data Call</td><td>MRAB_04</td><td>Multi Rab  PS  +  CS Voice  ( Wedge or Hedge )
@@ -20,6 +21,7 @@ So there should be In SVC -> No SVC -> In SVC activity<br>Validation : Check whe
 3.
 
 <table>
+<tr><td>Category</td><td>TC No</td><td>Test Case/Scenario Description</td><td>Expected Behavior/Validation Criteria</td></tr>
 <tr><td>4G CSFB</td><td>LTE_CSFB_01</td><td>MO Voice call in LTE IDLE mode with REF UE.<br>
 - Two time trial for 'P1'<br>
 - Ten times trial for 'P1+P2'.</td><td>Established successful MO voice call, UE will try CSFB to GSM or WCDMA according to RedirectionMessage.
@@ -51,6 +53,7 @@ Validation :
 
 4.
 <table>
+<tr><td>Category</td><td>TC No</td><td>Test Case/Scenario Description</td><td>Expected Behavior/Validation Criteria</td></tr>
 <tr><td>SMS/MMS/SS</td><td>LTE_SMS_1</td><td>Receiving SMS While Idle (E-UTRAN Only)</td><td></td><td>MT SMS while DUT camps on an E-UTRAN cell in the idle mode. 
 
 Validation: 
@@ -64,6 +67,7 @@ verify that the DUT can correctly send one or two page SMS from a second DUT cam
 5.
 
 <table>
+<tr><td>Category</td><td>TC No</td><td>Test Case/Scenario Description</td><td>Expected Behavior/Validation Criteria</td></tr>
 <tr>
 <td>4G VoLTE</td><td>VLT_01</td><td>Make MO VOLTE Call</td><td>Successful VOLTE Call Establishment.
 
