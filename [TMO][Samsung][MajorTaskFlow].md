@@ -58,4 +58,37 @@
 
 # 7. Aging
 ## 7-1. Remove all old logs
-## 7
+## 7-2. Delete log folder, ACT, FTAT logs
+## 7-3. Start IMS and Silent log
+## 7-4. Run ACT and choose proper script or run FTAT for 1000 calls, SMS, MMS
+
+# 8. Flash Software 
+## 8-1. Power off
+## 8-2. Download Mode (Power + Vol Down + Bixby)
+## 8-3. Copy Server location from chat and download binary from FilleZilla
+## 8-4. Open Odin
+## 8-5. Connect devices
+## 8-6. Unzip software
+## 8-7. Drag to Odin
+## 8-8. Start
+## 8-9. See for pass
+## 8-10. Reset after completed
+## 8-11. Factory reset (Y/N) after flashing
+## 8-12. Upload and FTACT/ACT Installation
+## 8-13. Verify the software after flashing and factory resetting
+
+# 9. Prepare Crash Logs (If silent log ins on)
+Connect device to PC and Get it using RDX(Select Reset after download & make zip file)
+When restart completes disconnect and run dumpstate
+Copy to SD card
+Dump result ---- ok
+Copy device logs to PC and Rename
+## Log to send after Zip and rename
+Summary inside to RDX collected file 
+Device log file copied from Mobile 
+Whole file collected by RDX
+
+# 10. Prepare Crash Loag(If Slient log is off)
+Connect device to PC and get it useing RDX (Select reset after download & make zip file)
+Copy summary from RDX to outside
+
