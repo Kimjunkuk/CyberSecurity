@@ -92,3 +92,11 @@ Whole file collected by RDX
 Connect device to PC and get it useing RDX (Select reset after download & make zip file)
 Copy summary from RDX to outside
 
+# 11. 2G-3G-LTE Test Sheet
+## call
+## MSG, MMS during active calls
+## Video call
+## Conference call, Conference calls + MMS
+## Youtube
+## Appstore download
+## power saver mode(2G, 3G, 4G, 5G-Call-MO/MT, msg video, mms based on Network Characteristics)
