@@ -1,14 +1,17 @@
 # Software quality assurance task information
 
-## 1) 5G NR
+## 1) Wireless communication(Radio Waves)
 
-## 2) LTE
+## 2) 5G NR
 
-## 3) UMTS, HSDPA
+## 3) LTE
 
-## 4) WCDMA, CDMA
+## 4) UMTS, HSDPA
 
-## 5) GSM<br><br>
+## 5) WCDMA, CDMA
+
+## 6) GSM<br><br>
+
 
 <table style="width:100%">
   <tr>
