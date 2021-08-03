@@ -64,6 +64,14 @@ Frequency is defined as the number of times a wave passes a particular point wit
     <th>Duplex Mode</th>
   </tr>
   <tr>
+    <td>LTE band 2</td>
+    <td>AWS-3</td>
+    <td>1850 - 1910 MHz</td>
+    <td>2110 MHz – 2200 MHz</th>
+    <td>70/90 MHz</td>
+    <td>FDD</td>
+  </tr>
+  <tr>
     <td>n66</td>
     <td>AWS-3</td>
     <td>1710 MHz – 1780 MHz</td>
