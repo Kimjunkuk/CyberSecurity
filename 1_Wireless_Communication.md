@@ -45,6 +45,7 @@ Frequency is defined as the number of times a wave passes a particular point wit
  
 회절(Diffraction)이란? 
 ![Screenshot_20210802-205824_Chrome](https://user-images.githubusercontent.com/54308434/127945726-1078841b-8927-43e6-83bf-b2bf86f7e32f.jpg)
+![Screenshot_20210802-211047_Chrome](https://user-images.githubusercontent.com/54308434/127946647-43c33382-09b5-4a92-a593-a8a27970d8c7.jpg)
 
 회절은 파동이 장애물이나 좁은 틈을 통과할 때 그 뒤편까지 파(에너지)가 전달되는 현상을 말합니다.이런 회절 현상은 파장이 길수록, 틈이 좁을수록 잘 일어납니다!
 
