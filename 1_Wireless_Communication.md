@@ -67,8 +67,8 @@ Frequency is defined as the number of times a wave passes a particular point wit
     <td>LTE band 2</td>
     <td>AWS-3</td>
     <td>1850 - 1910 MHz</td>
-    <td>2110 MHz – 2200 MHz</th>
-    <td>70/90 MHz</td>
+    <td>1930 - 1990 MHz</th>
+    <td>60 MHz</td>
     <td>FDD</td>
   </tr>
   <tr>
@@ -88,6 +88,14 @@ Frequency is defined as the number of times a wave passes a particular point wit
     <td>FDD</td>
   </tr>
 </table>
+
+Band n260 (39 GHz)
+Band n261 (28 GHz)
+
+Band 2 (1900 MHz)
+Band 5 (850 MHz)
+Band 4 (1700/2100 MHz)
+Band 66 (Extension of band 4 on 1700/2100 MHz).
 		
       	 			 	
 
