@@ -10,8 +10,9 @@
 
 ## 5) WCDMA, CDMA
 
-## 6) GSM<br><br>
+## 6) GSM
 
+## 99) CCNA200-301<br><br>
 
 <table style="width:100%">
   <tr>
