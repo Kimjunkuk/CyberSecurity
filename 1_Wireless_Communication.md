@@ -52,3 +52,36 @@ Frequency is defined as the number of times a wave passes a particular point wit
   - 사용주파수가 낮을수록 사용파장이 길수록 회절효과가 높음 = 낮은 대역대의 주파수를 사용하면 밀폐된 공간에서도 모바일 단말로 인터넷을 잘 이용할 수 있는 원리이다.
 
   - 장애물이 뾰족할수록 회절효과와 이득이 높아짐
+
+08022021-Samsung Unbound Q2, B2 [TMO] Device test NR bands information
+<table style="width:100%">
+  <tr>
+    <th>NR FR1 Band</th>
+    <th>Band Alias</th>
+    <th>Uplink (UL) Operating Band<br> BS Receive / UE Transmit<br>FUL_low   –  FUL_high</th>
+    <th>Downlink (DL) Operating Band<br> BS Transmit / UE Receive <br>FDL_low   –  FDL_high</th>
+    <th>Bandwidth</th>
+    <th>Duplex Mode</th>
+  </tr>
+  <tr>
+    <td>n66</td>
+    <td>AWS-3</td>
+    <td>1710 MHz – 1780 MHz</td>
+    <td>2110 MHz – 2200 MHz</th>
+    <td>70/90 MHz</td>
+    <td>FDD</td>
+  </tr>
+  <tr>
+    <td>n71</td>
+    <td>600</td>
+    <td>663 MHz – 698 MHz</td>
+    <td>617 MHz – 652 MHz</td>
+    <td>35 MHz</td>
+    <td>FDD</td>
+  </tr>
+</table>
+		
+      	 			 	
+
+
+             	 	
