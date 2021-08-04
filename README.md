@@ -12,6 +12,8 @@
 
 ## 6) GSM
 
+## 96) Debug screen description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BSamsungGalaxy%5D%5BDebugScreen%5D%5B*%230011%23%5D.md)
+
 ## 97) Samsung mobile device layout >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BQ2%5D%5BB2%5D%5BGalaxyFold%5D%5BGalaxy%20Z%20Flip%5D%5BDeviceLayout%5D.md)  
 
 ## 98) Field test location >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BFT_Location%5D.md)  
