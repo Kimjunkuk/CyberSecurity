@@ -1,6 +1,24 @@
-# Software quality assurance task information
+### 1.How to Fork repository to my account without git command?
+1-1. First, go to any repository that you want to join project then click the Fork button. If you can't find the Fork button please refer to the image below.
 
-## 1) Wireless communication(Radio Waves)
+<table style="width:100%">
+  <tr>
+    <th>PC</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <th><img src="https://user-images.githubusercontent.com/54308434/128099372-1ac3b1bc-868d-40d9-840f-b6765dc94584.JPG" alt="Error"></th>
+    <th><img src="https://user-images.githubusercontent.com/54308434/128099496-e03e3648-6ecd-49f6-a0ce-745928a9186a.JPG" alt="Error"></th>
+  </tr>
+</table>
+
+### 2.How to send Pull request without git command?
+
+Please refer this link >> | [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md)  
+
+### Contents List
+
+### 1) Wireless communication(Radio Waves)
 Purpose: Understanding wireless communication and how wireless communication can pass the wall and windows to give a signal to DUT.
 
 ### 1-1) Electromagnetic radiation(EMR)
@@ -11,31 +29,31 @@ Purpose: Understanding wireless communication and how wireless communication can
 
 ### 1-1-4) Frequency and Wavelength of 5G and electromagnetic spectrum
 
-## 2) Why we use Electromagnetic radiation?
+### 2) Why we use Electromagnetic radiation?
 
-## 3) How can we vibrate electrons?
+### 3) How can we vibrate electrons?
 
-## 4) Permeability of electromagnetic waves to matter
+### 4) Permeability of electromagnetic waves to matter
 
-## 2) 5G NR
+### 2) 5G NR
 
-## 3) LTE
+### 3) LTE
 
-## 4) UMTS, HSDPA
+### 4) UMTS, HSDPA
 
-## 5) WCDMA, CDMA
+### 5) WCDMA, CDMA
 
-## 6) GSM
+### 6) GSM
 
-## 95) Test case description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BTC_Dictionary%5D.md)
+### 95) Test case description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BTC_Dictionary%5D.md)
 
-## 96) Debug screen description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BSamsungGalaxy%5D%5BDebugScreen%5D%5B*%230011%23%5D.md)
+### 96) Debug screen description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BSamsungGalaxy%5D%5BDebugScreen%5D%5B*%230011%23%5D.md)
 
-## 97) Samsung mobile device layout >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BQ2%5D%5BB2%5D%5BGalaxyFold%5D%5BGalaxy%20Z%20Flip%5D%5BDeviceLayout%5D.md)  
+### 97) Samsung mobile device layout >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BQ2%5D%5BB2%5D%5BGalaxyFold%5D%5BGalaxy%20Z%20Flip%5D%5BDeviceLayout%5D.md)  
 
-## 98) Field test location >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BFT_Location%5D.md)  
+### 98) Field test location >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BFT_Location%5D.md)  
 
-## 99) CCNA200-301 Problem description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/99_CCNA200-301.md) <br><br>
+### 99) CCNA200-301 Problem description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/99_CCNA200-301.md) <br><br>
 
 <table style="width:100%">
   <tr>
