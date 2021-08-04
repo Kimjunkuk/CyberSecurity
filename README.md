@@ -12,11 +12,11 @@
 
 ## 6) GSM
 
-## 97) Samsung mobile device layout >> [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md)  
+## 97) Samsung mobile device layout >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BQ2%5D%5BB2%5D%5BGalaxyFold%5D%5BGalaxy%20Z%20Flip%5D%5BDeviceLayout%5D.md)  
 
-## 98) Field test location >> [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md)  
+## 98) Field test location >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BFT_Location%5D.md)  
 
-## 99) CCNA200-301 >> [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md) <br><br>
+## 99) CCNA200-301 Problem description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/99_CCNA200-301.md) <br><br>
 
 <table style="width:100%">
   <tr>
