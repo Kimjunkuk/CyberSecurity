@@ -12,7 +12,11 @@
 
 ## 6) GSM
 
-## 99) CCNA200-301<br><br>
+## 97) Samsung mobile device layout >> [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md)  
+
+## 98) Field test location >> [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md)  
+
+## 99) CCNA200-301 >> [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md) <br><br>
 
 <table style="width:100%">
   <tr>
