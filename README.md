@@ -1,6 +1,21 @@
 # Software quality assurance task information
 
 ## 1) Wireless communication(Radio Waves)
+Purpose: Understanding wireless communication and how wireless communication can pass the wall and windows to give a signal to DUT.
+
+### 1-1) Electromagnetic radiation(EMR)
+
+### 1-1-2) Electromagnetic Spectrum
+
+### 1-1-3) Electromagnetic Spectrum and the 5G frequencies
+
+### 1-1-4) Frequency and Wavelength of 5G and electromagnetic spectrum
+
+## 2) Why we use Electromagnetic radiation?
+
+## 3) How can we vibrate electrons?
+
+## 4) Permeability of electromagnetic waves to matter
 
 ## 2) 5G NR
 
