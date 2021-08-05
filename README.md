@@ -18,7 +18,7 @@ Please refer this link >> | [Link](https://github.com/Kimjunkuk/Algorithm-ranger
 
 ### Contents List
 
-### 1) Wireless communication(Radio Waves)
+### 1) Wireless communication(Radio Waves) LTE, UMTS, HSDPA
 Purpose: Understanding wireless communication and how wireless communication can pass the wall and windows to give a signal to DUT.
 
 ### 1-1) Electromagnetic radiation(EMR)
@@ -29,21 +29,27 @@ Purpose: Understanding wireless communication and how wireless communication can
 
 ### 1-1-4) Frequency and Wavelength of 5G and electromagnetic spectrum
 
-### 2) Why we use Electromagnetic radiation?
+### 1-2) Why we use Electromagnetic radiation?
 
-### 3) How can we vibrate electrons?
+### 1-3) How can we vibrate electrons?
 
-### 4) Permeability of electromagnetic waves to matter
+### 1-4) Permeability of electromagnetic waves to matter
 
-### 2) 5G NR
+### 2) LTE architecture using spec 36.300 and NR architecture (several options) using 38.300.
 
-### 3) LTE
+### 3) Control Plane and User plane on LTE/NR and each protocol stack
 
-### 4) UMTS, HSDPA
+### 4) Full, half-duplex, FDD/TDD
 
-### 5) WCDMA, CDMA
+### 5) IMS/SIP and VoLTE and VoNR
 
-### 6) GSM
+### 6) LTE_NSA_Attach_ENDC_establishment
+
+### 7) SA attach and PDN establishment
+
+### 8) Carrier Aggregation
+
+### 9) Cell Re-selection and LTE intra/inter-F  handover flow
 
 ### 95) Test case description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BTC_Dictionary%5D.md)
 
