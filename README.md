@@ -16,11 +16,11 @@ Refer website: https://www.sharetechnote.com/
 
 ### 2.How to send Pull request without git command?
 
-Please refer this link >> | [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md)  
+Please refer this link >> [Link](https://github.com/Kimjunkuk/Algorithm-ranger/blob/main/Pull_request.md)  
 
 ### Contents List
 
-### 1) Wireless communication(Radio Waves) LTE, UMTS, HSDPA
+### 1) Wireless communication(Radio Waves) LTE, UMTS, HSDPA >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/1_Wireless_Communication.md)
 Purpose: Understanding wireless communication and how wireless communication can pass the wall and windows to give a signal to DUT.
 
 1-1) Electromagnetic radiation(EMR)
