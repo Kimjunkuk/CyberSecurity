@@ -1,3 +1,15 @@
+
+Understanding Half & Full Duplex
+
+<table style="width:100%">
+  <tr>
+    <th>Half & Full Duplex</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/54308434/128448765-987d203c-a676-4bce-ae67-3c3568131a56.PNG" alt="Error"></td>
+  </tr>
+</table>
+
 Understanding FDD/TDD carrier aggregation
 
 Explain LTE Frame Structure both for FDD and TDD
