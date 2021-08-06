@@ -53,7 +53,7 @@ Frequency is defined as the number of times a wave passes a particular point wit
 
   - 장애물이 뾰족할수록 회절효과와 이득이 높아짐
 
-08022021-Samsung Unbound Q2, B2 [TMO] Device test NR bands information
+08022021-[TMO] Device test NR bands information
 <table style="width:100%">
   <tr>
     <th>NR FR1 Band</th>
