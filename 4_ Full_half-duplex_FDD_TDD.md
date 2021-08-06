@@ -6,7 +6,8 @@ Understanding Half & Full Duplex
     <th>Half & Full Duplex</th>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54308434/128448765-987d203c-a676-4bce-ae67-3c3568131a56.PNG" alt="Error"></td>
+    <td><img src="https://user-images.githubusercontent.com/54308434/128448765-987d203c-a676-4bce-ae67-3c3568131a56.PNG" alt="Error"><p><b>Differences Between Full and Half Duplex Systems</b><br>
+There are distinct differences between full and half-duplex systems. With half-duplex mode, each transmitted character is immediately displayed on a monitor. If a device is operating in full-duplex mode, transmitted data does not appear on-screen until it is received and returned. Full-duplex Ethernet does save time when compared to half-duplex because it alleviates collisions and frame retransmissions. Sending and receiving are separate functions, creating a system where there is full data capacity in each direction. In contrast, half-duplex can be used to conserve bandwidth.</p></td>
   </tr>
 </table>
 
