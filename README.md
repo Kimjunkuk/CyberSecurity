@@ -56,6 +56,8 @@ Purpose: Understanding wireless communication and how wireless communication can
 
 ### 9) Cell Re-selection and LTE intra/inter-F  handover flow
 
+### 94) Cisco Packet Tracer >> [Link]()
+
 ### 95) Test case description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BTC_Dictionary%5D.md)
 
 ### 96) Debug screen description >> [Link](https://github.com/Kimjunkuk/SoftwareQualityAssurance/blob/main/%5BSamsungGalaxy%5D%5BDebugScreen%5D%5B*%230011%23%5D.md)
