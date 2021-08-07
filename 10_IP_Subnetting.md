@@ -72,3 +72,4 @@ IP Address = 172.16.001 000 11.011 110 11=172.16.35.123
 ![20210806_220426](https://user-images.githubusercontent.com/52062353/128585935-43905c8e-3338-4afa-8d4b-563ae65caca8.jpg)
 
 Network/Subnet address fill the host portion of an address with binary 0's
+![20210806_221605](https://user-images.githubusercontent.com/54308434/128586165-d05d2938-87a6-4617-adcd-a518031cfeb7.jpg)
