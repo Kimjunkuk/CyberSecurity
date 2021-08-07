@@ -69,3 +69,4 @@ IP Address = 172.16.001 000 11.011 110 11=172.16.35.123
 *No need to convert the first 2 octets into binary because no host bits are found in the first 2 octets
 
 001 000 11 is Decimal 35
+![20210806_220426](https://user-images.githubusercontent.com/52062353/128585935-43905c8e-3338-4afa-8d4b-563ae65caca8.jpg)
