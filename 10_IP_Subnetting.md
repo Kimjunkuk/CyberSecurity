@@ -6,6 +6,8 @@ Class B private IP address ranges from 172.16.0.0 to 172.31.255.255
 Class C private IP address ranges from 192.168.0.0 to 192.168.255.255
 Only the network 172.28.0.0/16 belongs to the private IP address (of class B).
 
+![20210808_224443](https://user-images.githubusercontent.com/54308434/128658334-80aafc28-3c26-4521-bb9e-9083ad492d37.jpg)
+
 IP address 
 -Subnet Address
 -1st host Address
