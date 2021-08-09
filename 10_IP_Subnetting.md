@@ -1,5 +1,11 @@
 Subnet mask(ex/24) = Prefix = CIDR
 
+The private ranges of each class of IPv4 are listed below:
+Class A private IP address ranges from 10.0.0.0 to 10.255.255.255
+Class B private IP address ranges from 172.16.0.0 to 172.31.255.255
+Class C private IP address ranges from 192.168.0.0 to 192.168.255.255
+Only the network 172.28.0.0/16 belongs to the private IP address (of class B).
+
 IP address 
 -Subnet Address
 -1st host Address
