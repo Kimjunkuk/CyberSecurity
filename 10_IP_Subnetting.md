@@ -9,6 +9,7 @@ Only the network 172.28.0.0/16 belongs to the private IP address (of class B).
 ![20210808_224443](https://user-images.githubusercontent.com/54308434/128658334-80aafc28-3c26-4521-bb9e-9083ad492d37.jpg)
 
 ![Screenshot_20210808-230812_Chrome](https://user-images.githubusercontent.com/54308434/128659572-281ef462-6a13-4f31-9a39-22ee1482b5c0.jpg)
+![20210808_231010](https://user-images.githubusercontent.com/54308434/128659638-20dd5a27-79c9-4de8-aa2f-5a980af0f461.jpg)
 
 
 IP address 
