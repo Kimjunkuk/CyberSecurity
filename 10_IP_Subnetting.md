@@ -1,3 +1,5 @@
+Subnet mask(ex/24) = Prefix = CIDR
+
 IP address 
 -Subnet Address
 -1st host Address
