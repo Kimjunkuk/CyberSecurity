@@ -88,3 +88,9 @@ Decimal 35 = 1=2^7 + 1=2^6 + 1=2^5 + 0=2^4 + 0=2^3 + 0=2^2 + 1=2^1 + 1=2^0
 
 Network/Subnet address fill the host portion of an address with binary 0's
 ![20210806_221605](https://user-images.githubusercontent.com/54308434/128586165-d05d2938-87a6-4617-adcd-a518031cfeb7.jpg)
+
+
+
+IPv6 Unicast, Multicast, Anycast
+
+![ipv6](https://user-images.githubusercontent.com/54308434/129301738-4bd4f7b9-4411-47f6-81ec-5cc3b2bc69a5.JPG)
