@@ -10,7 +10,6 @@ Users don't have to belong to group and user can belong to multiple groups.<br>
 >>> 1-1-1-1. Version: policy language version, always include "2012-10-17" <br>
 >>> 1-1-1-2. Id: an indentifier for the policy (optional) <br>
 >>> 1-1-1-3. Statement: one or more individual statements (required) <br><br>
-
 >> 1-1-2. Statements consists of <br>
 >>> 1-1-2-1. Sid: an identifier for the statement (optional) <br>
 >>> 1-1-2-2. Effect: whether the statement allows or denies access (Allow, Deny) <br>
