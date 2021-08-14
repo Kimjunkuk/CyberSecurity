@@ -7,7 +7,7 @@ Users don't have to belong to group and user can belong to multiple groups.<br>
 
 > 1-1. "IAM" Policies Structure
 >> 1-1-1. Consist of 
->>> Version: policy language version, always include "2012-10-17"
+>>> Version: policy language version, always include "2012-10-17" <br>
 >>> Id: an indentifier for the policy (optional)
 >>> Statement: one or more individual statements (required)
 >> 1-1-2. Statements consists of
