@@ -1,7 +1,14 @@
-Refer website<br>
 Sharetechnote: https://www.sharetechnote.com/<br>
 techplayon: https://www.techplayon.com/<br><br>
 Matlab: https://www.mathworks.com/products/matlab.html
+ADB platform tools download: https://developer.android.com/studio/releases/platform-tools
+
+ADB commands
+1. move to adb platform location first
+2. adb root
+3. adb shell
+4. adb devices
+5. adb reboot download
 
 ### 1.How to Fork repository to my account without git command?
 1-1. First, go to any repository that you want to join project then click the Fork button. If you can't find the Fork button please refer to the image below.
