@@ -2,6 +2,7 @@ Sharetechnote: https://www.sharetechnote.com/<br>
 techplayon: https://www.techplayon.com/<br><br>
 Matlab: https://www.mathworks.com/products/matlab.html
 ADB platform tools download: https://developer.android.com/studio/releases/platform-tools
+Georgia Tech Q&A : https://omscs.gatech.edu/prospective-students/faq#:~:text=Your%20diploma%20will%20read%20%22Master,those%20of%20on%2Dcampus%20graduates.
 
 ADB commands
 1. move to adb platform location first
