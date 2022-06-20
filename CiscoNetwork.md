@@ -1,22 +1,22 @@
 Cisco Switch basic settings<br>
 
 1.Switch user mode prompt
-
-Switch>
+|  Title  | prompt       |
+| :-----  |:-------------|
+| Command | Switch>      |
   
 2.Privilege mode. enable command
+|  Title  | prompt       |
+| :-----  |:-------------|
+| Command | Switch> enable or en |
+| Resault | Switch#      |
 
-
-
+3.Enter to the all setting mode 
 <table>
-  <tr>
-    <th>Command</th>
-    <th>Switch> enable or en</th>
-  </tr>
-  <tr style="text-align:left;">
-    <th>Resault</th>
-    <th>Switch#</th>
-  </tr>
+  <td>
+    <tr>dsdfsdfsdfsdfsdf</tr>
+  </td>
 </table>
 
-3.
+
+
